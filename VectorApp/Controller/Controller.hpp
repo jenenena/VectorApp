@@ -17,7 +17,7 @@ class Controller
 public:
     void start();
     void playWithVector();
-    
+    void wordsVector();
 };
 
 #endif /* Controller_hpp */
