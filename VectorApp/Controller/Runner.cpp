@@ -13,6 +13,8 @@ int main()
 {
     Controller app;
     app.start();
+    app.playWithVector();
+    app.wordsVector();
 }
 
 
